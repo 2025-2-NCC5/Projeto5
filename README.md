@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://github.com/marcelohsouza">Marcelo Henrique de Souza</a>, <a href="https://github.com/rafamozi">Rafaella Morelli Ezequiel</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Renata Muniz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Minoru Nakatsugawa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rafael Diogo Rossetti</a>
 
 ## Descrição
 
