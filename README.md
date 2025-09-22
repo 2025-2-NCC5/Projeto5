@@ -31,12 +31,18 @@ May the force be with you!
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+  &emsp;|Entrega 1 <br>
+    &emsp;|AlgebraLinear <br>
+    &emsp;|InteligenciaArtifical <br>
+    &emsp;|ProjetoInterdisciplinar <br>
+    &emsp;|Psicologia <br>
+    &emsp;|SistemasOperacionais <br>
+  &emsp;|Entrega 2 <br>
+    &emsp;|AlgebraLinear <br>
+    &emsp;|InteligenciaArtifical <br>
+    &emsp;|ProjetoInterdisciplinar <br>
+    &emsp;|Psicologia <br>
+    &emsp;|SistemasOperacionais <br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
