@@ -32,17 +32,17 @@ May the force be with you!
 |<br>
 |-->documentos<br>
   &emsp;|Entrega 1 <br>
-      &emsp;|AlgebraLinear <br>
-      &emsp;|InteligenciaArtifical <br>
-      &emsp;|ProjetoInterdisciplinar <br>
-      &emsp;|Psicologia <br>
-      &emsp;|SistemasOperacionais <br>
+      |AlgebraLinear <br>
+      |InteligenciaArtifical <br>
+      |ProjetoInterdisciplinar <br>
+      |Psicologia <br>
+      |SistemasOperacionais <br>
   &emsp;|Entrega 2 <br>
-      &emsp;|AlgebraLinear <br>
-      &emsp;|InteligenciaArtifical <br>
-      &emsp;|ProjetoInterdisciplinar <br>
-      &emsp;|Psicologia <br>
-      &emsp;|SistemasOperacionais <br>
+      |AlgebraLinear <br>
+      |InteligenciaArtifical <br>
+      |ProjetoInterdisciplinar <br>
+      |Psicologia <br>
+      |SistemasOperacionais <br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
