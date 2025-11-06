@@ -1,5 +1,8 @@
 pandas
 numpy
-streamlit
+scikit-learn
 plotly
-python-dateutil
+streamlit
+joblib
+matplotlib
+seaborn
